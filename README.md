@@ -1,4 +1,4 @@
-# Proyecto de Monitoreo de Cultivos con Sensores
+# CultivaTec
 Este proyecto permite monitorear diferentes variables ambientales en un cultivo utilizando sensores de humedad del suelo, lluvia y temperatura. Los datos se envían a servicios en la nube y se visualizan utilizando diferentes protocolos de comunicación. La estructura del proyecto facilita el monitoreo remoto y en tiempo real de condiciones que impactan la salud del cultivo.
 
 ## Estructura del Repositorio
